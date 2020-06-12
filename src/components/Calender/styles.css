@@ -1,0 +1,13 @@
+.hideDate {
+    opacity: 40%;
+}
+
+.style_date {
+    color: rgb(255, 255, 255);
+    background-color: tomato;
+}
+
+.style_today{
+   
+    color: blue !important;
+}

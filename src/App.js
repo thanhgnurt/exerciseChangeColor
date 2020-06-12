@@ -5,6 +5,7 @@ import ManiColorFont from './components/ColorFront/ManiColorFont';
 // import Demo from './components/TrainingRedux/Demo'
 import IndexForm from './components/From/IndexForm';
 import TodoIndex from './components/TodoList/TodoIndex';
+import Calender from './components/Calender';
 
 
  
@@ -24,7 +25,16 @@ function App() {
       <TodoIndex/>
       <br/>
       <br/>
+      <br/>
+      <br/>
+      <Calender/>
      
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
       
       
       

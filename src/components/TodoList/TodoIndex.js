@@ -127,7 +127,6 @@ export default class TodoIndex extends Component {
 
     }
     render() {
-        console.log(this.state.keyWordSort);
         
         let { tasks, isDisplayForm, taskEdit, filter, keyword, keyWordSort } = this.state;
         if (filter) {
